@@ -1,0 +1,66 @@
+.heroContainer {
+   padding-top: 6px;
+
+
+
+   
+}
+
+.headerContainer {
+    width: 510px;
+    height: 58px;
+    padding: 16px;
+}
+
+
+.heroTitleHeader {
+    display: flex;
+    color: #FAFAFA;
+    font-size: 48px;
+    font-weight:700;
+    font-family: 'Global User Interface';
+    line-height:67.2px;
+    letter-spacing: 0em;
+    text-align: left;
+    top: 370px;
+}
+
+
+.subheaderContainer {
+    width: 510px;
+    height: 58px;
+    padding: 16px;
+
+}
+
+
+.subTitleHeader {
+    display:flex;
+    color:#FAFAFA;
+    font-size: 19px;
+    font-family:'Global User Interface';  
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+
+.projectContainer {
+    display:flex;
+    width: 510px;
+    height: 58px;
+    padding: 16px;
+    padding-top: 45px;
+}
+
+
+#projectView {
+    align-items: center;
+    color: #FAFAFA;
+    width: 100px;
+    height: 38px;
+    padding: 5px 5px;
+    border-radius: 50px;
+    font-size: 14px;
+    background: #70259B;
+    text-align: left;
+}

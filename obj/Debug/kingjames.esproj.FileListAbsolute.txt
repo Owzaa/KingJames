@@ -1,0 +1,2 @@
+C:\Users\Olwethu\Desktop\JavaScript Code\KingJames\obj\Debug\kingjames.esproj.SuggestedBindingRedirects.cache
+C:\Users\Olwethu\Desktop\JavaScript Code\KingJames\obj\Debug\kingjames.esproj.CoreCompileInputs.cache

@@ -1,0 +1,28 @@
+/*
+
+    Written by:  Olwethu Nyondo
+
+    company: King James 
+   
+    year: 2023
+       
+*/
+
+
+
+
+footer{
+    display:grid;
+    background: #70259B;
+    height: 500px;
+    width: auto;
+    align-items: center;
+    justify-content:space-between;
+    color: #fff;
+    top:1024px
+    
+}
+address {
+    display:inline-flex;
+    float:right
+}

@@ -1,0 +1,16 @@
+#rectAngular {
+    display: inline-grid;
+    background: #D100C9;
+    width: 40px;
+    height: 4px;
+    top: 779px;
+    left: 85px;
+    padding: 5px 5px;
+}
+h1 {
+    font-family:Inter;
+    font-weight:700;
+    left:200px;
+    padding: 5px;
+    font-size: 38px;
+}

@@ -1,0 +1,102 @@
+/*
+
+    Written by:  Olwethu Nyondo
+
+    company: King James 
+   
+    year: 2023
+       
+*/
+
+
+
+
+header {
+    display:flex;
+    background: #70259B;
+    height: 80px;
+    width: auto;
+    align-items:center;
+    justify-content: space-evenly;
+    color: #fff
+}
+
+
+.logo-header {
+    display:inline-flex;
+    width: 67px;
+    height: auto;
+    padding: 5px 15px 5px 15px;
+    left:35px;
+   float:left;
+    gap: 8px
+}
+
+
+
+nav {
+       align-items:center;
+      justify-content:space-evenly;
+   
+}
+
+
+ul {
+ 
+    width:649px;
+    height: 37px;
+    justify-content:center;
+    text-decoration:none
+}
+
+
+li {
+    display:inline;
+    align-content:center;
+    padding: 5px 15px 5px 15px;
+}
+
+
+
+.navLinks{
+   
+    color: #FFF;
+    padding:5px 15px 5px 15px;
+    gap: 8px ;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    justify-content:center
+}
+
+a  {
+    color:#fff;
+    text-decoration:none;
+    align-items:center
+}
+
+
+
+/* Button: Let's Talk Link */
+button {
+    text-decoration: none;
+    width: 96px;
+    height: 37px;
+    border-radius: 50px;
+    border: inherit;
+    padding: 5px 5px 5px 5px;
+    gap: 1px;
+    left: 26px;
+}
+
+
+.navLink {
+    justify-content: right;
+    color: #FFF;
+    float:right;
+    font-family: Inter;
+    font-size: 14px;
+
+}
